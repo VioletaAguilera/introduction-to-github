@@ -1,0 +1,1 @@
+Escribir un programa que muestre en pantalla las letras mayúsculas (“A” a la “Z”).Pista: Podés buscar los códigos de la “A” y la “Z” en una tabla de códigos ascii. No utilizar un vector.Usar una sola variable de tipo db, e incrementar el valor de esa variable antes de imprimir.
